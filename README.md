@@ -12,9 +12,9 @@ This Arabic Chatbot listens to user speech, processes the input using the OpenAI
 
 ## Features
 
-- **Speech Recognition**: Converts spoken language into text.
+- **Speech Recognition**: Converts spoken Arabic into text.
 - **Natural Language Processing**: Uses OpenAI API to generate intelligent responses.
-- **Text-to-Speech**: Converts the generated text responses into spoken language.
+- **Text-to-Speech**: Converts the generated text responses into spoken Arabic.
 
 ## Installation
 
