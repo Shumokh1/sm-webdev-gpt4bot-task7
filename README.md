@@ -3,9 +3,9 @@
 
 ## Overview
 
-This Voice Chatbot listens to user speech, processes the input using the OpenAI API, and replies with synthesized speech. This project integrates functionality from three previous repositories: [**Speech to Text**](https://github.com/Shumokh1/repository-name)
+This Voice Chatbot listens to user speech, processes the input using the OpenAI API, and replies with synthesized speech. This project integrates functionality from three previous repositories: [**Speech to Text**](https://github.com/Shumokh1/sm-webdev-Speechtotext-task4)
 , [**Chatbot Using OpenAI API**](https://github.com/Shumokh1/sm-webdev-chatbot-task5)
-, and [**Text to Speech**](https://github.com/Shumokh1/repository-name)
+, and [**Text to Speech**](https://github.com/Shumokh1/sm-webdev-task6-text2speech)
 , combining them into a unified application.
 
 ## Demo
