@@ -9,6 +9,7 @@ This Arabic Chatbot listens to user speech, processes the input using the OpenAI
 , combining them into a unified application.
 
 ## Demo
+https://github.com/user-attachments/assets/b08ce009-a187-4b82-b938-811d0836bd37
 
 ## Features
 
