@@ -22,5 +22,5 @@ This Voice Chatbot listens to user speech, processes the input using the OpenAI 
 
    ```bash
    git clone https://github.com/Shumokh1/sm-webdev-gpt4bot-task7.git
-   cd voice-chatbot
+   cd sm-webdev-gpt4bot-task7
    ```
